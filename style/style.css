@@ -1,0 +1,63 @@
+body {
+  background: #4741ba;
+}
+
+.wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-height: 100vh;
+}
+
+.content {
+  width: 300px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 15px 20px;
+  text-align: center;
+}
+
+.From {
+  font-size: 18px;
+}
+
+input, select {
+  width: 100%;
+  outline: none;
+  border: none;
+}
+
+input {
+  height: 30px;
+  border: 1px solid #3f3c3c;
+  border-radius: 5px;
+}
+
+.To {
+  font-size: 18px;
+  margin: 10px 0 0 0;
+}
+
+select {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: auto;
+  height: 30px;
+  width: 45px;
+  border: 1px solid #3f3c3c;
+  border-radius: 5px;
+  margin: 0 0 10px 0;
+}

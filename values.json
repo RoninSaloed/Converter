@@ -1,0 +1,18 @@
+[
+    {
+        "unit": "M",
+        "value": 1
+    },
+    {
+        "unit": "Ft",
+        "value": 0.3048
+    },
+    {
+        "unit": "Cm",
+        "value": 0.01
+    },
+    {
+        "unit": "In",
+        "value": 0.0254
+    }
+]
